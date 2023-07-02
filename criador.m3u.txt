@@ -1,0 +1,1236 @@
+
+#EXTM3U
+#EXTINF:-1,BR: Discovery Science
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8910
+#EXTINF:-1,BR: Discovery World
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/279608
+#EXTINF:-1,BR: Globo News
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/14513
+#EXTINF:-1,BR: Globo TV
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/295104
+#EXTINF:-1,BR: HBO 2
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8821
+#EXTINF:-1,BR: HBO Xtreme
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8824
+#EXTINF:-1,BR: Megapix
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8842
+#EXTINF:-1,BR: Record SP
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/14639
+#EXTINF:-1,BR: Space
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/295111
+#EXTINF:-1,BR: SYFY
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/14485
+#EXTINF:-1,BR: Telecine Action
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193685
+#EXTINF:-1,BR: Telecine Pipoca
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/8830
+#EXTINF:-Tywyn_Wharf_railwaystation
+
+https://edge01.balticlivecam.com/blc/p_Tywyn_Wharf_railwaystation/tracks-v1/mono.m3u8?token=699321e8ad3def4676b4a32da0970840%3A1687014509900
+#EXTINF:-p_PT_Almada_Costa_da_caparica
+https://edge04.balticlivecam.com/blc/p_PT_Almada_Costa_da_caparica/tracks-v1/mono.m3u8?token=54146e5088e9319ada8fa3e4b9725988%3A1687016335819
+#EXTINF:-p_PT_Santa_Maria_Azores
+https://edge04.balticlivecam.com/blc/p_PT_Santa_Maria_Azores/tracks-v1/mono.m3u8?token=3dcb55ca97defcddca637eb49c963345%3A1687016396949
+#EXTINF:-p_PT_Matosinhos_beach_Porto
+https://edge01.balticlivecam.com/blc/p_PT_Matosinhos_beach_Porto/tracks-v1/mono.m3u8?token=3c47699fe7d2340038e1085e6d989c48%3A1687016461275
+#EXTINF:-p_PT_Praia_do_Norte_Ericeira
+https://edge04.balticlivecam.com/blc/p_PT_Praia_do_Norte_Ericeira/tracks-v1/mono.m3u8?token=407ec50e53a0ee2353c6cc62b77f71c9%3A1687016521536
+#EXTINF:-p_PT_Cascais_Praia_da_Ribeira
+https://edge04.balticlivecam.com/blc/p_PT_Cascais_Praia_da_Ribeira/tracks-v1/mono.m3u8?token=d9bc0d99a993f2b9cb8e51880d6a1aef%3A1687016575208
+#EXTINF:-p_PT_Praia_Grande_Sintra
+https://edge04.balticlivecam.com/blc/p_PT_Praia_Grande_Sintra/tracks-v1/mono.m3u8?token=2095febecff92ac3398146f20cda0456%3A1687016663305
+#EXTINF:-p_PT_Buarcos
+https://edge04.balticlivecam.com/blc/p_PT_Buarcos/tracks-v1/mono.m3u8?token=ba8a75177cc56a4a2e76be0fd010aa94%3A1687016721794
+#EXTINF:-p_PT_Albufeira_beach
+https://edge04.balticlivecam.com/blc/p_PT_Albufeira_beach/tracks-v1/mono.m3u8?token=b86716e26af2e6af99d228b0139bf4a6%3A1687016778783
+#EXTINF:-p_PT_Madeira_Jardim_do_Mar
+https://edge04.balticlivecam.com/blc/p_PT_Madeira_Jardim_do_Mar/tracks-v1/mono.m3u8?token=542bc95dd750ea851cbbab579d2ea3b3%3A1687016866781
+#EXTINF:-p_BR_Balneario_Camboriu
+https://edge04.balticlivecam.com/blc/p_BR_Balneario_Camboriu/tracks-v1/mono.m3u8?token=1151ac116de4bb7a9f81523dcd2d8613%3A1687016970683
+#EXTINF:-p_BR_Civil_square_Goias
+https://edge04.balticlivecam.com/blc/p_BR_Civil_square_Goias/index.m3u8?token=27a21096dd4a6986fb1b71991f0b4682:1687017116012
+#EXTINF:-p_BR_Marina_Itacuruca_Mangaratiba
+https://edge04.balticlivecam.com/blc/p_BR_Marina_Itacuruca_Mangaratiba/tracks-v1/mono.m3u8?token=051f3fd218d8c979f8198b2fad004490%3A1687017183951
+#EXTINF:-p_BR_Ilhabela_Praia_do_Curral
+https://edge01.balticlivecam.com/blc/p_BR_Ilhabela_Praia_do_Curral/tracks-v1/mono.m3u8?token=fd790581dcb85fff2051352db5fbe856%3A1687017243986
+#EXTINF:-/p_BR_Cajamar
+https://edge01.balticlivecam.com/blc/p_BR_Cajamar/tracks-v1/mono.m3u8?token=8e0f9aa29850028473c0040023cf1774%3A1687017300317
+#EXTINF:-p_BR_Friendship_Bridge
+https://edge04.balticlivecam.com/blc/p_BR_Friendship_Bridge/tracks-v1/mono.m3u8?token=21a533467969c29902568081aabad0b8%3A1687017357365
+#EXTINF:-p_BR_Rio_Negro
+https://edge01.balticlivecam.com/blc/p_BR_Rio_Negro/tracks-v1/mono.m3u8?token=58f24ec2dd13525e752f167b875e0882%3A1687017423860
+#EXTINF:-p_BR_Ourinhos	
+https://edge01.balticlivecam.com/blc/p_BR_Ourinhos/tracks-v1/mono.m3u8?token=c2dcc7f652a40ac3cb50934e8de5916f%3A1687017484495
+#EXTINF:-p_UK_Portmeirion
+https://edge01.balticlivecam.com/blc/p_UK_Portmeirion/tracks-v1/mono.m3u8?token=c826cec207495300b7ec3ff445a9907f%3A1687017735243
+#EXTINF:-/p_UK_Cinderford_Town_Centre
+https://edge01.balticlivecam.com/blc/p_UK_Cinderford_Town_Centre/index.m3u8?token=7645ebd3d22ea9bf7ea3ec2fac02fec5:1687017800579
+#EXTINF:-p_Nature_Ria_Formosa_park
+https://edge01.balticlivecam.com/blc/p_Nature_Ria_Formosa_park/index.m3u8?token=89c4d57e0043557627c62972c846b35c:1687018139420
+#EXTINF:-p_Nature_Tagus_Estuary_Natural_Reserve
+https://edge01.balticlivecam.com/blc/p_Nature_Tagus_Estuary_Natural_Reserve/tracks-v1/mono.m3u8?token=3c1a3764201c3646bcf5a3b794f72235%3A168701821000
+#EXTINF:-p_Tywyn_Wharf_railwaystation
+https://edge01.balticlivecam.com/blc/p_Tywyn_Wharf_railwaystation/tracks-v1/mono.m3u8?token=bbfc89fafb63bf5dcabe3015671f7f4a%3A1687018317534
+#EXTINF:-1	
+https://video-auth1.iol.pt/beachcam/furadouro/chunks.m3u8?nimblesessionid=799103730
+#EXTINF:-2
+https://video-auth1.iol.pt/beachcam/matosinhos/chunks.m3u8?nimblesessionid=799105007
+#EXTINF:-3
+https://video-auth1.iol.pt/beachcam/espinho/chunks.m3u8?nimblesessionid=799109324
+#EXTINF:-4
+https://video-auth1.iol.pt/beachcam/murtosa/chunks.m3u8?nimblesessionid=799110497
+#EXTINF:-5
+https://video-auth1.iol.pt/beachcam/bclagoazul/chunks.m3u8?nimblesessionid=799111382
+#EXTINF:-6
+https://video-auth1.iol.pt/beachcam/bcdornes/chunks.m3u8?nimblesessionid=799112022
+#EXTINF:-7
+https://video-auth1.iol.pt/beachcam/bcquintagrande1/chunks.m3u8?nimblesessionid=799112864
+#EXTINF:-8
+https://video-auth1.iol.pt/beachcam/belem/chunks.m3u8?nimblesessionid=799113524
+#EXTINF:-9
+https://video-auth1.iol.pt/beachcam/bcbugio1/chunks.m3u8?nimblesessionid=799114447
+#EXTINF:-10
+https://video-auth1.iol.pt/beachcam/praiadasrocas/chunks.m3u8?nimblesessionid=799115735
+#EXTINF:-11
+https://video-auth1.iol.pt/beachcam/bcpauldomar2/chunks.m3u8?nimblesessionid=799116666
+#EXTINF:-12
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/chunks.m3u8?nimblesessionid=799117345
+#EXTINF:-13
+https://video-auth1.iol.pt/beachcam/bcportosanto/chunks.m3u8?nimblesessionid=799118141
+#EXTINF:-14
+https://video-auth1.iol.pt/beachcam/carcavelos/chunks.m3u8?nimblesessionid=799118988
+#EXTINF:-1 group-title=YouTube Cam,Durval street 
+https://livestreamapis.com/v3/accounts/28216356/events/8670453/master.m3u8?clientId=11949&token=b0217140ac2e9037be1c0a95434c7e90&timestamp=1568725226000
+
+#EXTINF:-1 group-title=YouTube Cam,Tropical Murphys Tailandia
+https://www.youtube.com/watch?v=sbZNL98Z0GE
+
+
+#EXTINF:-1 group-title=YouTube Cam,Town Square Sittard
+https://www.youtube.com/watch?v=eN5ETluMBkE
+
+
+#EXTINF:-1 group-title=YouTube Cam,Tango Beah Resort
+https://www.youtube.com/watch?v=dXBdnQKJxUk
+
+
+#EXTINF:-1 group-title=YouTube Cam,Las Vegas - AE View Live
+https://www.youtube.com/watch?v=KZOiFmVhRiM
+
+
+#EXTINF:-1 group-title=YouTube Cam,Las Vegas - NYNY View Live
+https://www.youtube.com/watch?v=JxWwnicMSBw
+
+
+#EXTINF:-1 group-title=YouTube Cam,Times Square - Duffy Square 4K View Live
+https://www.youtube.com/watch?v=3Wartp7Ggck
+
+
+#EXTINF:-1 group-title=YouTube Cam,Times Square - 1540 Broadway View Live
+https://www.youtube.com/watch?v=nOUedGM58kI
+
+
+#EXTINF:-1 group-title=YouTube Cam,Times Square - 1560 Broadway View Live
+https://www.youtube.com/watch?v=4qyZLflp-sI
+
+
+#EXTINF:-1 group-title=YouTube Cam,Times Square - Express View Live
+https://www.youtube.com/watch?v=8xPL6VJESEg
+
+
+#EXTINF:-1 group-title=YouTube Cam,Brooks Falls - Katmai National Park - Alaska
+https://www.youtube.com/watch?v=c4C1c4z8hTQ
+
+
+#EXTINF:-1 group-title=YouTube Cam,Ninho de aguia
+https://www.youtube.com/watch?v=5b2dUgK6VV4
+
+
+#EXTINF:-1 group-title=YouTube Cam,Beija flor no Texas
+https://www.youtube.com/watch?v=8thJ9NlzFPo
+
+
+#EXTINF:-1 group-title=YouTube Cam,Passaros Comendo
+https://www.youtube.com/watch?v=5x01AdCuLnk
+
+
+#EXTINF:-1 group-title=YouTube Cam,Panama Fruit Feeder
+https://www.youtube.com/watch?v=WtoxxHADnGk
+
+
+#EXTINF:-1 group-title=YouTube Cam,Ninho de aguia 2
+https://www.youtube.com/watch?v=85Zrvv9h_yE
+
+
+#EXTINF:-1 group-title=YouTube Cam,Condor
+https://www.youtube.com/watch?v=Iwd7egxtdBI
+
+
+#EXTINF:-1 group-title=YouTube Cam,Jackson Hole Wyoming USA Town Square
+https://www.youtube.com/watch?v=1EiC9bvVGnk
+
+
+#EXTINF:-1 group-title=YouTube Cam,Banff Live Cam - Alberta, Canada
+https://www.youtube.com/watch?v=9HwSNgcdQ7k
+
+
+#EXTINF:-1 group-title=YouTube Cam,Ashland - Virginia USA
+https://www.youtube.com/watch?v=YlksXBZbx8Y
+
+
+#EXTINF:-1 group-title=YouTube Cam,Geirangerfjord cruise port - Geiranger
+https://www.youtube.com/watch?v=yMSc-qqW3To
+
+
+#EXTINF:-1 group-title=YouTube Cam,Sweet Soul Cafe Tailandia
+https://www.youtube.com/watch?v=OBsmLKuNELA
+
+
+#EXTINF:-1 group-title=YouTube Cam,Church Street Market Place
+https://www.youtube.com/watch?v=7DVUvR_ic-M
+
+
+#EXTINF:-1 group-title=YouTube Cam,Veneza Italia
+https://www.youtube.com/watch?v=BPXtn15_9qo
+
+
+#EXTINF:-1 group-title=YouTube Cam,amsterdam
+https://www.youtube.com/watch?v=KGEekP1102g
+
+
+
+
+
+#############################################################################################################################################
+
+
+
+
+
+#EXTINF:-1 group-title=camera na Flórida,Aeroporto na Flórida
+https://videos3.earthcam.com/fecnetwork/7571.flv/chunklist_w3111104.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Peixe Boi 
+https://videos3.earthcam.com/fecnetwork/14014.flv/chunklist_w551387795.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Florida Marina Cam
+https://videos3.earthcam.com/fecnetwork/8891.flv/chunklist_w788193548.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Key West Cam
+https://videos3.earthcam.com/fecnetwork/14287.flv/chunklist_w1025668511.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Anna Maria Island
+https://videos3.earthcam.com/fecnetwork/14561.flv/chunklist_w601952254.m3u8
+
+#EXTINF:-1 group-title=camera na Flórida,Calle Ocho
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/13866/2018/10/15/1300.mp4/chunklist_w514974886.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Coconut Grove Marina
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/3275/2019/01/30/1300.mp4/chunklist_w581738193.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Englewood Beach
+https://videos3.earthcam.com/fecnetwork/16210.flv/chunklist_w1798511048.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Hillsboro Lighthouse
+https://videos3.earthcam.com/fecnetwork/4135.flv/chunklist_w1822209871.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Lauderdale Town
+https://videos3.earthcam.com/fecnetwork/9314.flv/chunklist_w758271058.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Miami Bay Biscayne Bay
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/miamivishd4/2018/09/19/1300.mp4/chunklist_w1914161600.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Miami News Cafe
+https://videos3.earthcam.com/fecnetwork/15061.flv/chunklist_w1015224159.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Naples Panorama
+https://videos3.earthcam.com/fecnetwork/8763.flv/chunklist_w1542513613.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Siesta Beach 
+https://videos3.earthcam.com/fecnetwork/7988.flv/chunklist_w217827780.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,South Beach
+https://videos3.earthcam.com/fecnetwork/13862.flv/chunklist_w1353232340.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Sunny Isles Beach
+https://videos3.earthcam.com/fecnetwork/miamivishd2.flv/chunklist_w405272366.m3u8
+
+
+#EXTINF:-1 group-title=camera na Flórida,Water Sound Beach Club
+https://videos3.earthcam.com/fecnetwork/14441.flv/playlist.m3u8
+
+
+###############################################################################################
+
+
+
+#EXTINF:-1 group-title=New York,5th Avenue
+https://videos3.earthcam.com/fecnetwork/15294.flv/chunklist_w186210217.m3u8
+
+
+#EXTINF:-1 group-title=New York,brooklyn bridge
+https://videos3.earthcam.com/fecnetwork/3983.flv/chunklist_w1262328021.m3u8
+
+
+#EXTINF:-1 group-title=New York,Columbus circle 
+https://videos3.earthcam.com/fecnetwork/6427.flv/playlist.m3u8
+
+
+#EXTINF:-1 group-title=New York,Empire State
+https://videos3.earthcam.com/fecnetwork/13908.flv/chunklist_w1166798630.m3u8?t=R3bNUFQw1fOgbBpNsGnoJBEeDuIAjbC88j%2FJbJzKBSQ%3D
+
+
+#EXTINF:-1 group-title=New York,Empire State South View
+https://videos3.earthcam.com/fecnetwork/13908.flv/chunklist_w1763331178.m3u8?t=R3bNUFQw1fOgbBpNsGnoJBEeDuIAjbC88j%2FJbJzKBSQ%3D
+
+
+#EXTINF:-1 group-title=New York,High Line
+https://videos3.earthcam.com/fecnetwork/7384.flv/chunklist_w1992931279.m3u8
+
+
+#EXTINF:-1 group-title=New York,Lake George 
+https://videos3.earthcam.com/fecnetwork/14619.flv/chunklist_w1919872719.m3u8
+
+
+#EXTINF:-1 group-title=New York,Midtown 4K
+https://videos3.earthcam.com/fecnetwork/13903.flv/chunklist_w1022475060.m3u8
+
+
+#EXTINF:-1 group-title=New York,Montauk 
+https://videos3.earthcam.com/fecnetwork/13525.flv/chunklist_w957171702.m3u8
+
+
+#EXTINF:-1 group-title=New York,Mulberry Street 
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/5775/2017/09/16/1400.mp4/chunklist_w1483064420.m3u8
+
+
+#EXTINF:-1 group-title=New York,Mulberry Street 2
+https://videos3.earthcam.com/fecnetwork/5775.flv/chunklist_w1543844127.m3u8
+
+#EXTINF:-1 group-title=New York,Harbor 
+https://videos3.earthcam.com/fecnetwork/13777.flv/chunklist_w705034146.m3u8
+
+#EXTINF:-1 group-title=New York,Port Jefferson
+https://videos3.earthcam.com/fecnetwork/15523.flv/chunklist_w1305501853.m3u8
+
+
+#EXTINF:-1 group-title=New York,Times Square 4K
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1551458283.m3u8
+
+
+#EXTINF:-1 group-title=New York,Times Square Crossroads
+https://videos3.earthcam.com/fecnetwork/15559.flv/chunklist_w1110709751.m3u8
+
+
+#EXTINF:-1 group-title=New York,Times Square South View
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w1771540049.m3u8
+
+
+#EXTINF:-1 group-title=New York,Times Square Street 
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1638899842.m3u8
+
+
+#EXTINF:-1 group-title=New York,Virtual Park
+https://videos3.earthcam.com/fecnetwork/libertyHD1.flv/chunklist_w1637181.m3u8
+
+
+#EXTINF:-1 group-title=New York,Memorial 11 de Setembro
+https://videos3.earthcam.com/fecnetwork/8592.flv/chunklist_w455211403.m3u8
+
+
+##############################################################################################
+
+
+
+#EXTINF:-1 group-title=Califórnia,Discovery Bay
+https://videos3.earthcam.com/fecnetwork/15346.flv/chunklist_w1290969064.m3u8
+
+
+#EXTINF:-1 group-title=Califórnia,Hollywood Blvd
+https://videos3.earthcam.com/fecnetwork/lacitytours1.flv/chunklist_w1030316285.m3u8
+
+
+#EXTINF:-1 group-title=Califórnia,Newport Coast
+https://videos3.earthcam.com/fecnetwork/9602.flv/chunklist_w1070682749.m3u8
+
+
+#EXTINF:-1 group-title=Califórnia,Ojai
+https://videos3.earthcam.com/fecnetwork/14297.flv/chunklist_w1634165745.m3u8
+
+
+#EXTINF:-1 group-title=Califórnia,San Francisco Bay Front
+https://videos3.earthcam.com/fecnetwork/6603.flv/chunklist_w758097110.m3u8
+
+
+#EXTINF:-1 group-title=Califórnia,San Francisco Skyline
+https://videos3.earthcam.com/fecnetwork/6961.flv/chunklist_w1003372993.m3u8
+
+
+#########################################################################################
+
+
+
+#EXTINF:-1 group-title=Hawaii,Surf
+https://videos3.earthcam.com/fecnetwork/5204.flv/chunklist_w763042557.m3u8
+
+
+#EXTINF:-1 group-title=Hawaii,Kauai
+https://videos3.earthcam.com/fecnetwork/13518.flv/chunklist_w1583285357.m3u8
+
+
+#EXTINF:-1 group-title=Hawaii,Waikoloa
+https://videos3.earthcam.com/fecnetwork/5758.flv/chunklist_w276932329.m3u8
+
+
+#############################################################################################
+
+
+
+#EXTINF:-1 group-title=Kentucky,
+https://videos3.earthcam.com/fecnetwork/15180.flv/chunklist_w1217693383.m3u8
+
+
+###############################################################################################
+
+
+
+#EXTINF:-1 group-title=Louisiana,Cats Meow Karaoke
+https://videos3.earthcam.com/fecnetwork/4281.flv/chunklist_w496067640.m3u8
+
+
+#EXTINF:-1 group-title=Louisiana,Cats Meow Karaoke 2
+https://videos3.earthcam.com/fecnetwork/9106.flv/chunklist_w1241263293.m3u8
+
+
+#EXTINF:-1 group-title=Louisiana,Cats Meow Balcony
+https://videos3.earthcam.com/fecnetwork/4282.flv/chunklist_w1034252296.m3u8
+
+
+#EXTINF:-1 group-title=Louisiana,Mardigras
+https://videos3.earthcam.com/fecnetwork/4282.flv/chunklist_w1794223639.m3u8
+
+
+#EXTINF:-1 group-title=Louisiana,Bourbonstreet
+https://videos3.earthcam.com/fecnetwork/4280.flv/chunklist_w735108601.m3u8
+
+
+###############################################################################################
+
+
+#EXTINF:-1 group-title=Nevada,Casamentos 
+https://videos3.earthcam.com/fecnetwork/5359.flv/chunklist_w673080084.m3u8
+
+
+#EXTINF:-1 group-title=Nevada,Fremont Street
+https://videos3.earthcam.com/fecnetwork/16812.flv/chunklist_w740061475.m3u8
+
+
+#EXTINF:-1 group-title=Nevada,Lake Tahoe
+https://videos3.earthcam.com/fecnetwork/15342.flv/chunklist_w324959225.m3u8
+
+
+#EXTINF:-1 group-title=Nevada,Karaoke em Las Vegas
+https://videos3.earthcam.com/fecnetwork/16813.flv/chunklist_w1988741105.m3u8
+
+
+#EXTINF:-1 group-title=Nevada,Famosa Placa de Las Vegas
+https://videos3.earthcam.com/fecnetwork/eclasvegas.flv/chunklist_w1324868926.m3u8
+
+
+#EXTINF:-1 group-title=Nevada,Allegiant Stadium
+https://video6.earthcam.com/cc/13833.flv/chunklist_w1977458940_DVR.m3u8?t=kCty7RznQ5fuzgaSoXSqXIYZkjvjrk8jFuej2ThuEn7nsV9KmQbSbm
+
+%2BB6ApDlTA2nUrjwkpS8oFnz4qaNiA7nbQjHaz65a7f%2Ffcm7948Aoo%3D
+
+
+
+
+##############################################################################################
+
+
+
+
+
+#EXTINF:-1 group-title=New Jersey,Headquarters
+https://videos3.earthcam.com/fecnetwork/15148.flv/chunklist_w850860166.m3u8?t=RnVGaSZFi%2B4zGOyeC58ERQPhGzGdM5ST9Ij%2B5dQ9Q7M%3D
+
+
+#EXTINF:-1 group-title=New Jersey,Atlantic Highlands
+https://videos3.earthcam.com/fecnetwork/13323.flv/chunklist_w912294974.m3u8
+
+
+
+##############################################################################################
+
+
+
+#EXTINF:-1 group-title=Japão,Tóquio
+https://videos3.earthcam.com/fecnetwork/tokyo1.flv/chunklist_w1094227970.m3u8
+
+
+##############################################################################################
+
+
+#EXTINF:-1 group-title=São Paulo,Avenida Paulista
+https://ipc-72.camerite.com/7dias/6e92d190-4ef1-11e7-8a07-43a423523218.stream/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Carlos Comenale - Bela Vista
+https://ipc-89.camerite.com/7dias/b418e680-6596-11e7-a67c-499d3d47a239.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Dom Orione - Bixiga
+https://ipc-82.camerite.com/7dias/097a2280-793b-11e7-8395-6781c6f6098f.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Largo Paissandu 1 - sé
+https://ipc-97.camerite.com/7dias/c174f080-a766-11e9-af27-5fb8fd13f7d6.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Largo Paissandu 2 - sé
+https://ipc-97.camerite.com/7dias/00f1d6b0-a767-11e9-9020-254ed2f272a2.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Mercado Municipal - sé
+https://ipc-76.camerite.com/7dias/34e00380-200d-11e8-948e-b1abedc5d474.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Machado Bittencourt 205 - Vila Mariana
+https://ipc-94.camerite.com/7dias/f036a6e0-136c-11e9-bdc8-13d88f821435.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Horácio Lafer 74
+https://dj73o2te2agi7.cloudfront.net/a1/14485.stream/str10/chunklist.m3u8?m_hash=kK0rmUptYWpg8c8K2sajQcKuO9YMOAawGhnoc4hztig%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Horácio Lafer camera 2
+https://dj73o2te2agi7.cloudfront.net/a1/14484.stream/str10/chunklist.m3u8?m_hash=zlm1nn1wyZBt7km_l2T6Dh31HAKaUVJBSKKcs7NNPwY%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Clodomiro Amazonas 302 - Itaim Bibi
+https://dj73o2te2agi7.cloudfront.net/a1/14480.stream/str9/chunklist.m3u8?m_hash=JHFAV22VWFxQr13SoS_NPhbvrR5ilxI6uDM_5ODuT7o%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Clodomiro Amazonas 316 - Itaim Bibi
+https://dj73o2te2agi7.cloudfront.net/a1/14481.stream/str9/chunklist.m3u8?m_hash=G0UFRDbv4CBMiEmH2PR4uGJhBUvSc8qW6YbTBANLi8w%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Leopoldo Couto de Magalhães - 730 Itaim Bibi
+https://dj73o2te2agi7.cloudfront.net/a1/14483.stream/str9/chunklist.m3u8?m_hash=lUPAJ0PqREreDRib8oj_jCrq1mXpvyB7_NRzzTeLqic%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Rua Leopoldo Couto de Magalhães- 700 - Itaim Bibi
+https://dj73o2te2agi7.cloudfront.net/a1/14482.stream/str9/chunklist.m3u8?m_hash=XAv80FzlrBporUKMohQLQwp-qd9bHa3AbXnDd-gW2ac%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Avenida Washington Luis 2
+https://dj73o2te2agi7.cloudfront.net/a1/14299.stream/str6/chunklist_tkbV9oYXNoPXJPMkQ0enl4dTFiQTdQY3hUMjFzcjFIcHphVG1QZzhpVTBHbUJ6czY3YkU9.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Avenida Washington Luis 3
+https://dj73o2te2agi7.cloudfront.net/a1/14300.stream/str6/chunklist_tkbV9oYXNoPVpaM1pBYTZSR3VTbVNoWG1GQVRwOXJqZGp2M21nNVlBVlhqUlpuZG9KYWs9.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Avenida Washington Luis 4
+https://dj73o2te2agi7.cloudfront.net/a1/14304.stream/str6/chunklist_tkbV9oYXNoPU43d0dFcXp2bXV2TmprS3YwWFZQQ1ZXRzZGdldEQXlPT19ndWR2bFZaTzA9.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Avenida Washington Luis 5
+https://dj73o2te2agi7.cloudfront.net/a1/14306.stream/str6/chunklist_tkbV9oYXNoPUlKeENVbVpKclYwUzlSME5OU2QweVF2WkFBWnN1dGM3ekdLbXQ3N3Q4eVk9.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Avenida Washington Luis Elevador 1
+https://dj73o2te2agi7.cloudfront.net/a1/14301.stream/str6/chunklist_tkbV9oYXNoPVQ2blNzM0RmNlMtbWhGWGhVLU1BWnFULUxRTlJPcWowcUpKcHBWb0xFY289.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Marginal Pinheiros
+https://dj73o2te2agi7.cloudfront.net/a1/14470.stream/str9/chunklist.m3u8?m_hash=tpRs3YF1BD5WfzgzPlI2OIGGxVKIv_8kKgE04tFyaK0%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Marginal Pinheiros 2
+https://dj73o2te2agi7.cloudfront.net/a1/14473.stream/str6/chunklist_tkbV9oYXNoPV9pb2F4OVU5YXpPTU1Nd2k2WlAtV3JmcmE2eWs2cnhKNm5UQVZJSzZfakU9.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Marginal Pinheiros Sentido Castelo branco
+https://dj73o2te2agi7.cloudfront.net/a1/14469.stream/str9/chunklist.m3u8?m_hash=Deqz5aog00Ywb_hfCiZBUVT-NLp8igEzXW3mybRuoi4%3D
+
+
+#EXTINF:-1 group-title=São Paulo,Clima São Paulo Capital
+https://ipc-82.camerite.com/1dia/41be7200-75c4-11e8-9ac7-e1572f7bfba5.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Clima Barretos
+https://ipc-53.camerite.com/1dia/5fcd3980-b501-11e8-8cdc-dba3cfa873a2.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Clima Bauru
+https://ipc-70.camerite.com/1dia/5506bf10-c804-11e8-93ec-9791f739f805.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Clima Bebedouro
+https://ipc-98.camerite.com/1dia/06d12070-bf8e-11e8-a06f-d35cff95992c.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Clima Campos do Jordão
+https://ipc-87.camerite.com/1dia/bda08150-7728-11e8-9df7-3b8e6ebf9a0c.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title=São Paulo,Clima Cerqueira Cesar
+https://ipc-79.camerite.com/1dia/15d410d0-5a4a-11e9-9788-1b1fd9ecdbf4.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Monte Agudo
+https://ipc-86.camerite.com/1dia/7ca33f10-f8c1-11e8-9173-5d3fbf21bd21.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Clima Sorocaba
+https://ipc-84.camerite.com/1dia/fa6d67e0-7bf8-11e8-b483-05295498dafb.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=São Paulo,Clima Viradouro
+https://ipc-63.camerite.com/1dia/dfbd86b0-f7a3-11e8-aa68-8187f89d5fea.stream/chunklist.m3u8
+
+
+#########################################################################################################
+
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Basilica Aparecida
+http://69.46.0.170:1935/santuario_aparecida/canal5.stream/live.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Barra da Lagoa SC
+https://cdn.jmvstream.com/w/IPC-6871/camera.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Quatro Ilhas
+https://ipc-93.camerite.com/7dias/026b0050-6dc2-11e8-aec4-b3f728ac72a7.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Praia Da Sepultura
+https://ipc-62.camerite.com/7dias/ae420030-76fb-11e8-986c-2181ad0084f5.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Praia dos Ingleses
+https://ipc-87.camerite.com/7dias/ba039000-6396-11e8-83d8-8534579b5978.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Posto Salva Vidas Mariscal
+https://ipc-69.camerite.com/7dias/ad139ff0-7fdb-11e8-b367-b99153ed79c4.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Posto Salva Vidas Canto Grande
+https://ipc-79.camerite.com/7dias/e2472220-1e8f-11e9-93e0-2dbfb77c6983.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Zimbros Norte
+https://ipc-67.camerite.com/7dias/c6ea0900-2a44-11e9-9e9b-bf452b06b154.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Zimbros Sul
+https://ipc-81.camerite.com/7dias/e48b18c0-2a42-11e9-a963-c3b02a0ef84c.stream/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Trapiche de Bombinhas
+https://ipc-98.camerite.com/7dias/b962a7d0-180e-11e9-905a-e9d46014a5c7.stream/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Trapiche de Bombinhas Lagoinha
+https://ipc-br-001.camerite.com/7dias/5db7edc0-180c-11e9-a849-377702498cd1.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Trapiche de Bombinhas Norte
+https://ipc-br-001.camerite.com/7dias/68485390-180e-11e9-905a-e9d46014a5c7.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Praia de Bombinhas Solar Sul
+https://ipc-52.camerite.com/7dias/0d125470-1684-11e9-b74e-2382787b6938.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Praia de Bombinhas Solar Norte
+https://ipc-98.camerite.com/7dias/9bc02ae0-1683-11e9-a9ae-6f2cf51946f7.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Praia de Bombas Sul
+https://ipc-82.camerite.com/7dias/f5f74fb0-719d-11e8-a7ba-ffa863b290e6.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Praia de Bombas Norte
+https://ipc-66.camerite.com/7dias/c1197550-719f-11e8-ad75-b5b0e3de0347.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Praia de Bombas Sul Rest Sabor Brasil
+https://ipc-64.camerite.com/7dias/54e435b0-73bf-11e8-aa20-efe311b27f46.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Costão Bombas Sul
+https://ipc-93.camerite.com/7dias/c4b5c710-732d-11e8-b014-3d92f5e15172.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Costão Bombas
+https://ipc-80.camerite.com/7dias/91ab0dc0-7329-11e8-bd21-01ea36d51f64.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,Costão Bombas Norte
+https://ipc-93.camerite.com/7dias/746cde80-732b-11e8-884b-fb347adc252e.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,
+
+
+#EXTINF:-1 group-title=Cameras Aleatórias,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############################################################################################################################################################
+
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Caxias do Sul - Edificio Jotace visão Leste
+https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-LESTE/CSL-CLIMA-AO-VIVO-LESTE.stream/chunklist_w1088673527.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Caxias do Sul - Edificio Jotace visão Oeste
+https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-OESTE/CSL-CLIMA-AO-VIVO-OESTE.stream/chunklist_w1418440041.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Arroio do tigre
+https://ipc-87.camerite.com/1dia/a4a29110-f32f-11e8-b164-25ec2e4858ac.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Boqueirão do leão
+https://ipc-53.camerite.com/1dia/12db59a0-75d1-11e8-abd2-df88c3d01736.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Jóia
+https://ipc-84.camerite.com/1dia/aabbf040-b8f2-11e8-a5a7-c59537303aba.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Julio de Castilhos 
+https://ipc-53.camerite.com/1dia/d494ed10-75cf-11e8-9ac7-e1572f7bfba5.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Morro Reuter
+https://ipc-76.camerite.com/1dia/a21ebad0-b45a-11e9-9752-dd42a65329ac.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,São Marcos
+https://video-cam.bitcom.psi.br/SMC-CLIMA-AO-VIVO/SMC-CLIMA-AO-VIVO.stream/chunklist_w839261574.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Salto do Jacuí
+https://ipc-50.camerite.com/1dia/f05c22f0-f330-11e8-849b-b33a3cd8b6f4.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Torres
+https://ipc-93.camerite.com/1dia/a18dec00-75c5-11e8-8a9a-c390d8ee6895.stream/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Clima Rio Grande do Sul,Venâncio Aires
+https://ipc-84.camerite.com/1dia/ae6e9ee0-75d1-11e8-9ac7-e1572f7bfba5.stream/chunklist.m3u8
+
+
+#########################################################################################################
+
+
+#EXTINF:-1 group-title=Mato Grosso,Cuiaba
+https://ipc-81.camerite.com/1dia/9978a610-7d74-11e9-a971-77c408a07fd3.stream/chunklist.m3u8
+
+
+#########################################################################################################
+
+
+
+#EXTINF:-1 group-title=Litoral,Santos SP 1
+http://b7.hdrelay.com/camera/23716973-16a1-4935-a54a-9ee9a5a07c25/relay/chunklist_w1907132769.m3u8
+
+
+#EXTINF:-1 group-title=Litoral,Santos SP 2
+http://b7.hdrelay.com/camera/915e7922-a390-4117-ab29-842446f41dd3/relay/chunklist_w416918138.m3u8
+
+
+#EXTINF:-1 group-title=Litoral,Santos SP 3
+http://b7.hdrelay.com/camera/33f005a3-17ea-47d8-a816-e41d7d5c5cc0/relay/chunklist_w479121848.m3u8
+
+
+#EXTINF:-1 group-title=Litoral,Guaruja SP - Pitangueiras
+http://b7.hdrelay.com/camera/e63cb880-dc3e-4510-9e64-581f2c75a2d2/relay/chunklist_w387075127.m3u8
+
+
+#EXTINF:-1 group-title=Litoral,São Vicente SP - Praia do Itararé
+http://b7.hdrelay.com/camera/92400137-fdc6-45de-943c-063ab411ab2c/relay/chunklist_w237627325.m3u8
+
+
+#########################################################################################################
+
+
+#EXTINF:-1 group-title=Santa Catarina,Blumenau - Antonio da Veiga
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20004.stream/chunklist_w1710145350.m3u8
+
+
+#EXTINF:-1 group-title=Santa Catarina,Brusque - Rua Carlos Gracher
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w1786663289.m3u8
+
+
+#EXTINF:-1 group-title=Santa Catarina,Itajai - Praia Brava
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist_w357705268.m3u8
+
+
+#EXTINF:-1 group-title=Santa Catarina,Itapema - Avenida Beira Mar
+https://ipc-89.camerite.com/7dias/0cb0bea0-6dc7-11e9-915b-e328618faa19.stream/chunklist.m3u8
+
+
+
+
+#########################################################################################################
+
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Festa da Uva
+https://video-cam.bitcom.psi.br/CSL-360-POP-MENEGHETTI/CSL-360-POP-MENEGHETTI.stream/chunklist_w1738450573.m3u8
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul -Avenida Rio Branco - Shopping San Pelegrino
+https://video-cam.bitcom.psi.br/CSL-PRACA-TREM-DOME/CSL-PRACA-TREM-DOME.stream/chunklist_w511223993.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Clima ao Vivo Leste
+https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-LESTE/CSL-CLIMA-AO-VIVO-LESTE.stream/chunklist_w1469916355.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Clima ao Vivo Oeste
+https://video-cam.bitcom.psi.br/CSL-CLIMA-AO-VIVO-OESTE/CSL-CLIMA-AO-VIVO-OESTE.stream/chunklist_w1399162863.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Dante Alighieri - Rua Sinimbú
+https://video-cam.bitcom.psi.br/CSL-PRACA-DANTE-SINIMBU/CSL-PRACA-DANTE-SINIMBU.stream/chunklist_w1260905760.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Jardim Botânico
+https://video-cam.bitcom.psi.br/CSL-JARDIM-BOTANICO/CSL-JARDIM-BOTANICO.stream/chunklist_w9951413.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Praça Dante Alighieri
+https://video-cam.bitcom.psi.br/CSL-PRACA-DANTE-JULIO/CSL-PRACA-DANTE-JULIO.stream/chunklist_w1825736828.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Praça das Feiras
+https://video-cam.bitcom.psi.br/CSL-PRACA-FEIRAS-DIREITA/CSL-PRACA-FEIRAS-DIREITA.stream/chunklist_w903779811.m3u8
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Praça das Feiras 2
+https://video-cam.bitcom.psi.br/CSL-PRACA-FEIRAS-ESQUERDA/CSL-PRACA-FEIRAS-ESQUERDA.stream/chunklist_w1436620150.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Praça Joaquim Slomp - Forqueta
+https://video-cam.bitcom.psi.br/CSL-PRACA-FORQUETA/CSL-PRACA-FORQUETA.stream/chunklist_w1201254377.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Praça Padavena Ana Rech
+https://video-cam.bitcom.psi.br/CSL-PRACA-PADAVENA-DIREITA/CSL-PRACA-PADAVENA-DIREITA.stream/chunklist_w185883620.m3u8
+
+
+#EXTINF:-1 group-title=Rio Grande do Sul,Caxias do Sul - Praça Pedro Chaves Galópolis
+https://video-cam.bitcom.psi.br/CSL-PRACA-GALOPOLIS-IGREJA/CSL-PRACA-GALOPOLIS-IGREJA.stream/chunklist_w1310063614.m3u8
+
+
+
+
+
+
+###############################################################################################################
+
+
+
+#EXTINF:-1 group-title=Canais,Rede Globo Rio
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_ee72692c215826bdaf1574f87598238f48a12cd2/playlist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,National Geographic
+http://hvod.imirun.net:8080/National-Geographic-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,History Channel 
+http://edge.aovivo.club/hls/s:155.138.226.22/history_b7eb6c68_2786be1910379c85678a88504f001fba5263eb96/playlist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,History Channel 2
+http://playback.imirun.net:8080//H2-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,NatGeo Wild
+http://23.237.132.90:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Discovery Turbo
+http://167.114.210.177:8080//DiscoveryTurbo-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Discovery Channel
+http://edge.aovivo.club/hls/s:45.32.217.66/discoverychannel_af3e1334_658c2a76416e4c90ac6d6983e98010fe0283c01f/playlist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Animal Planet
+http://23.237.132.90:8080//Animal-Planet/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Discovery Civilization HD
+http://playback.imirun.net:8080//DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Discovery World HD
+http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Discovery Theater
+http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Discovery Science
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+
+
+
+
+
+######################################################################################################################################
+
+
+
+
+#EXTINF:-1 group-title=Canais,Band
+http://hvod.imirun.net:8080/BAND/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Rede TV
+http://hvod.imirun.net:8080/REDETVHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,SBT
+http://hvod.imirun.net:8080/SBTHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Futura
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1935113221.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Globo News
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globonews_dc685e2c_72bc552eb795d8310fe37e275582d20d0a0b138e.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Band News
+http://hvod.imirun.net:8080/Band-Sports/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,ESPN
+http://hvod.imirun.net:8080/ESPN-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,ESPN Extra
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
+
+
+#EXTINF:-1 group-title=Canais,ESPN Brasil
+https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDE5IDM6NTQ6NTQgQU0maGFzaF92YWx1ZT1QNXM1YW5id1dCWEluZ1FSeUdiOFZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+
+#EXTINF:-1 group-title=Canais,Russia Today
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+
+
+#EXTINF:-1 group-title=Canais,BBC News UK
+http://ott-cdn.ucom.am/s24/01.m3u8
+
+
+#EXTINF:-1 group-title=Canais,DW News UK
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 group-title=Canais,TCV Cabo Verde
+http://videos.nosi.cv/tcvi/smil:tcvilive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title=Canais,TVM Moçambique
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Finlandia
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/chunklist_w1416135240_b946000_slfi.m3u8
+
+
+#EXTINF:-1 group-title=Canais,NHK World Japan 
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+
+
+#EXTINF:-1 group-title=Canais,HBO 
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_f69d2420e8331b87f50b442442cd0288ba76a9a5.m3u8
+
+
+#EXTINF:-1 group-title=Canais,HBO 2
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_40e119e9f20b9c8bd63bac22336a18ce4831d41b.m3u8
+
+
+#EXTINF:-1 group-title=Canais,HBO Plus
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_8cebde20b3b4142bb652a9233553e34edccefcb5.m3u8
+
+#EXTINF:-1 group-title=Canais,HBO Family
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_b7909114e62a60a5860769eccb9e49bd7373b95a.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Telecine Touch
+http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Telecine Premium
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremium_a929eb33_40b1114532bbdc73ad5396d036141d86b774b749.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Telecine Pipoca
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+
+#EXTINF:-1 group-title=Canais,Telecine Fun
+http://23.237.132.90:8080//Telecine-Fun-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Telecine Action
+http://edge.aovivo.club/hls/s:155.138.227.45/telecineaction_be057d4c_0a2e645fdb8efb33152b25d6fb312ad09294fed7/480p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,FOX
+http://edge.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_dd2b6e25289ec50af001ec3b34cf9240e8a4b2e7.m3u8
+
+
+#EXTINF:-1 group-title=Canais,FOX Premium 
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_2aa872208ce18d92b92d152692ccb883391eb252.m3u8
+
+
+#EXTINF:-1 group-title=Canais,TNT
+http://edge.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_d564a14c9ac367bd04fab85714fce28917327418.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Warner 
+http://edge.aovivo.club/hls/s:155.138.226.22/warnerchannel_0a57cb53_868a58b8c9852be75f08432fde8d4791c3214c9f/410p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,TNT Series
+http://edge.aovivo.club/hls/s:95.216.15.44:81/tntseries_3bb18d9a_914d5637e409c92e468d3341ba5255faa19e6731.m3u8
+
+
+#EXTINF:-1 group-title=Canais,AMC Brasil
+http://hvod.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,AXN
+http://hvod.imirun.net:8080/AXN/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Cinemax
+http://23.237.132.90:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Paramount
+http://167.114.210.177:8080/ParamountHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,TCM 
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Universal Channel
+http://hvod.imirun.net:8080/UniversalChannelHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,MegaPix
+http://edge.aovivo.club/hls/s:155.138.226.22/megapix_a6f16ab4_3cb3c9a69270f95c5d969b29ad4937955492a225/410p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Max UP
+http://23.237.106.234:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Space
+http://edge.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_4ee9c1e4d7a70bcfffec2c906e9540f34445194b/playlist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Comedy Central
+http://edge.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_2cb4abeacbd5a7922232ce847191643ca5f17fcd.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Canal OFF
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=Canais,MTV Brasil
+http://edge.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_b63a915cd569e8dd0f49c8c208b501bb293428ba.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Cartoon Network
+http://edge.aovivo.club/hls/s:155.138.226.22/cartoonnetwork_511a418e_df9aacecd97b6cbeec49001f8708f446796fbf44/410p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Disney Channel
+http://edge.aovivo.club/hls/s:155.138.226.22/disneychannel_a9334987_95a26f3212ef4c125c1e8a220013f4fe808f5427/410p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Nickelodeon
+http://edge.aovivo.club/hls/s:155.138.227.45/nickelodeon_bc33ea4e_68f32f10ac5567083e122b5df54ed7f9b8f910a4/410p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Boomerang
+http://edge.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_73fafb7bf4514293f93b8757e314648f43c39ff0.m3u8
+
+
+#EXTINF:-1 group-title=Canais,Canal Combate
+http://edge.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_9b1d801d5a7e20d4848f686a0fe645bdf8330149.m3u8
+
+
+
+
+########################################################################################################################################
+
+
+#EXTINF:-1 group-title=Ao Vivo,A Fazenda 
+http://edge.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_d281976e149fbfc962aa7fc887563c128c34d6ac/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
